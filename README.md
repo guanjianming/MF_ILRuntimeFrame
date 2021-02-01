@@ -27,8 +27,9 @@
 				为什么会产生GC呢?
 					在热更的代码里调用Unity主工程的方法
 					ILRuntime会通过反射对目标方法进行调用
-					这个过程会因为装箱，拆箱等操作，产生大量的GC Alloc和额外开销
-					
+					这个过程会因为装箱，拆箱等操作，产生大量的GC Alloc和额外开销 
+		调用热更接口Hotfix.HotfixCodeManager.Main 进入热更逻辑
+		
 	5.ILMonoBehaviour
 		用于监听组件的生命周期,实际是桥接(调用)热更的逻辑
 		Awake
