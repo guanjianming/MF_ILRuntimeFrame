@@ -51,6 +51,7 @@
 		DOTween
 		LitJson
 		Spine
+		Google.Protobuf
 		TextAnimation
 		可以根据上面的方式,自行添加依赖的库...
 		
