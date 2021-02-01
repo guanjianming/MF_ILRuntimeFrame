@@ -1,0 +1,6 @@
+
+UnityProject/.vsconfig
+*.csproj
+UnityProject/Library
+UnityProject/obj
+*.sln
