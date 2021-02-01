@@ -1,7 +1,11 @@
 # MF_ILRuntimeFrame
-纯ILRuntime热更新框架
-作者QQ:2529331994
-请关注:http://www.unity3d.xin/ 后续将推出本框架的详细教程
+
+Help：
+
+	纯ILRuntime热更新框架
+	作者QQ:2529331994
+	QQ群：150501217
+	请关注:http://www.unity3d.xin/ 后续将推出本框架的详细教程
 
 框架解决的问题:
 
