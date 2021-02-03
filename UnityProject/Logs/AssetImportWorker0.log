@@ -1,0 +1,181 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'zh' Physical Memory: 16297 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\unity2020\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/MF/MF_ILRuntimeFrame/UnityProject
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52712
+Successfully changed project path to: E:/MF/MF_ILRuntimeFrame/UnityProject
+E:/MF/MF_ILRuntimeFrame/UnityProject
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 37.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path E:/unity2020/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/MF/MF_ILRuntimeFrame/UnityProject/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8137 MB
+    Driver:   23.20.832.0
+Initialize mono
+Mono path[0] = 'E:/unity2020/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'E:/unity2020/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/unity2020/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56812
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/unity2020/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002413 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 31.99 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.456 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.009281 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.14 seconds
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1561 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 113.2 MB.
+System memory in use after: 111.9 MB.
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 1957.
+Total: 3.227300 ms (FindLiveObjects: 0.171900 ms CreateObjectMapping: 0.060800 ms MarkObjects: 1.888900 ms  DeleteObjects: 1.104500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Script/Hotfix/System/HotfixCodeManager.cs
+  artifactKey: Guid(84332c46946e25f40816354ca926b65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Hotfix/System/HotfixCodeManager.cs using Guid(84332c46946e25f40816354ca926b65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5694f6228aa0793420afaa78bf499fe') in 0.062126 seconds
+  Import took 0.065559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.194130 seconds.
+  path: Assets/Script/Hotfix/System/HotfixApplication.cs
+  artifactKey: Guid(84332c46946e25f40816354ca926b65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Hotfix/System/HotfixApplication.cs using Guid(84332c46946e25f40816354ca926b65a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b0e99f73037058d74ef45ef694a445') in 0.003714 seconds
+  Import took 0.007014 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008646 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.952 seconds
+Platform modules already initialized, skipping
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1561 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 112.2 MB.
+System memory in use after: 111.1 MB.
+
+Unloading 78 unused Assets to reduce memory usage. Loaded Objects now: 1991.
+Total: 3.855400 ms (FindLiveObjects: 0.226500 ms CreateObjectMapping: 0.078900 ms MarkObjects: 2.206000 ms  DeleteObjects: 1.341800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.008776 seconds.
+  path: Assets/Script/Main/ILManager/ILManager.cs
+  artifactKey: Guid(5349980c151bc474da541fa6b880ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Main/ILManager/ILManager.cs using Guid(5349980c151bc474da541fa6b880ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5df3ff0916dcbba9a0aa87b4b02eed0') in 0.005572 seconds
+  Import took 0.008424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005228 seconds.
+  path: Assets/Script/Main/ILManager/ILManager.cs
+  artifactKey: Guid(5349980c151bc474da541fa6b880ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Main/ILManager/ILManager.cs using Guid(5349980c151bc474da541fa6b880ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5df3ff0916dcbba9a0aa87b4b02eed0') in 0.003128 seconds
+  Import took 0.005678 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011124 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Symbol file LoadedFromMemory is not a mono symbol file
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.002 seconds
+Platform modules already initialized, skipping
+OnLevelWasLoaded was found on DOTweenComponent
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+
+Refreshing native plugins compatible for Editor in 0.37 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1529 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.5 MB.
+System memory in use after: 110.4 MB.
+
+Unloading 78 unused Assets to reduce memory usage. Loaded Objects now: 1993.
+Total: 2.799200 ms (FindLiveObjects: 0.191900 ms CreateObjectMapping: 0.063500 ms MarkObjects: 1.464700 ms  DeleteObjects: 1.077000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.047470 seconds.
+  path: Assets/Script/Main/ILManager/ILManager.cs
+  artifactKey: Guid(5349980c151bc474da541fa6b880ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Main/ILManager/ILManager.cs using Guid(5349980c151bc474da541fa6b880ca70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd51dfabc3b97bd01619bc0991b2e3178') in 0.006582 seconds
+  Import took 0.010356 seconds .
+

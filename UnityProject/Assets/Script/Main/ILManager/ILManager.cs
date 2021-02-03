@@ -230,7 +230,7 @@ public class ILManager : MonoBehaviour
     /// <summary> 走入热更代码的入口 </summary>
     void OnHotFixLoaded()
     {
-        appdomain.Invoke("Hotfix.HotfixCodeManager", "Main", null, null);
+        appdomain.Invoke("Hotfix.HotfixApplication", "Main", null, null);
     }
 
 

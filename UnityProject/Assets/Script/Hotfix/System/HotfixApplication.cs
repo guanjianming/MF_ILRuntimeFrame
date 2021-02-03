@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Hotfix
 {
-    public class HotfixCodeManager
+    public class HotfixApplication
     {
         //热更代码的入口
         public static void Main() {
