@@ -153,7 +153,7 @@ public class DllTools
 #elif UNITY_ANDROID
         PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup.Android,  newDefs.ToArray());
         PlayerSettings.SetApiCompatibilityLevel(BuildTargetGroup.Android, ApiCompatibilityLevel.NET_4_6);
-        PlayerSettings.SetScriptingBackend(BuildTargetGroup.Android,release? ScriptingImplementation.IL2CPP: ScriptingImplementation.Mono2x);
+        PlayerSettings.SetScriptingBackend(BuildTargetGroup.Android,hotfixMode? ScriptingImplementation.IL2CPP: ScriptingImplementation.Mono2x);
         //PlayerSettings.Android.targetArchitectures = aac;
 #elif UNITY_STANDALONE_OSX || UNITY_IPHONE
        PlayerSettings.SetScriptingDefineSymbolsForGroup(BuildTargetGroup.iOS, newDefs.ToArray());
