@@ -22,4 +22,10 @@ public class EditorMenu : Editor
         DllTools.CopyDllToPersistentDataPath();
     }
 
+
+    [MenuItem("Assets/Hotfix/OpenPersistentDataPath")]
+    public static void OpenPersistentDataPath()
+    {
+        Application.OpenURL(Application.persistentDataPath);
+    }
 }
