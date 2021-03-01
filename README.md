@@ -1,6 +1,6 @@
 # MF_ILRuntimeFrame
 
-请关注:http://www.unity3d.xin/ 后续将推出本框架的详细教程
+框架教程:http://www.unity3d.xin/
 	
 	
 
